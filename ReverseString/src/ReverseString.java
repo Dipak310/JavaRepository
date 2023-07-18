@@ -7,7 +7,6 @@ public class ReverseString {
 		/* If You want to hardcode the value of string then please uncomment the line below. */
 		
 //		String inputStr = "Infoway Technology";  
-		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter a String to Reverse: ");
 		inputStr = sc.nextLine(); 
