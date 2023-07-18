@@ -17,5 +17,7 @@ public class ReverseString {
 			revStr = revStr + str[i];
 		}
 		System.out.println(revStr);
+
+		System.out.println("New Feature get Added!");
 	}
 }
